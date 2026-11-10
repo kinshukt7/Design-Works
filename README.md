@@ -11,10 +11,6 @@ A collection of my design projects across UI/UX, wayfinding, typography and visu
 | [Raasta Redefined](RastaRedefined/) | Wayfinding / HCD, team of 4 | A unified, accessibility-aware wayfinding system for the 4th floor of IIIT Delhi's R&D Building, from field research to on-site prototype | Illustrator, Figma |
 | [Assignment 5: Mid-fi Prototype](<Mid-fi- Figma/>) | UI/UX | Mid-fidelity application prototype | Figma |
 
-## Related
-
-- [Systems Programming Projects](https://github.com/kinshukt7/systems-projects): write-ups of OS projects in C (loader, shell, scheduler, demand-paging loader)
-- [RISC-V Assembler and Simulator](https://github.com/kinshukt7/Assembler_CO_Project): Python
 
 ## Skills shown
 
